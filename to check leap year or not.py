@@ -14,7 +14,7 @@ def checkYear(year):
 
 # Driver Code 
 year = 2000
-if (checkYear(year)):
+ if (checkYear(year)):
     print("Leap Year")
-else:
+ else:
     print("Not a Leap Year")
