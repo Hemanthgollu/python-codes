@@ -1,4 +1,4 @@
-#factorial of a given no
+#factorial of a given number
 import math
 def factorial(num):
 	return(math.factorial(num))
