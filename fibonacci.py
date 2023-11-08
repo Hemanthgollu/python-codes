@@ -1,4 +1,4 @@
-#fib0 series
+#fibonaco series
 def fibo(n):
 	return n <= 1 or fibo(n-1) + fibo(n-2)
 
