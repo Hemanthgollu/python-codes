@@ -1,4 +1,4 @@
-# greatest of three nos
+# greatest of three nos using python
 x = int(input('enter the 1st value'))
 y = int(input('enter the 2nd value'))
 z = int(input('enter the 3rd value'))
