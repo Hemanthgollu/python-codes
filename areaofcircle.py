@@ -1,4 +1,4 @@
-#to find area of circle
+#to find area of circle using python
 def circ_Area(rad):
 	PI = 3.142
 	return PI * (rad*rad);
