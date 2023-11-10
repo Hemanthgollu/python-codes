@@ -1,4 +1,4 @@
-
+# armstrong no using python
 n = int(input("Enter a number: "))
 
 s = 0
