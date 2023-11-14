@@ -1,4 +1,5 @@
-#Runner up score
+#Runner up score using python
+
 if __name__ == '__main__':
     n = int(input())
     arr = list(map(int, input().split()))
