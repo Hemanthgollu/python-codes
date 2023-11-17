@@ -1,4 +1,4 @@
-#remove of vowels in a string
+#remove of vowels in a string using python
 string = input("Enter a String : ") 
 result=''
 for i in string:  
