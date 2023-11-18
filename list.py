@@ -1,4 +1,4 @@
-#example of list comphensive in python
+#example of list comphensive
 x = int(input())
     y = int(input())
     z = int(input())
