@@ -1,4 +1,4 @@
-#using function
+#using function using python
 def find_square(num):
     result = num * num
     return result
