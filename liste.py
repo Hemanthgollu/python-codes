@@ -1,4 +1,4 @@
-#Runner up score using python
+#Runner up score 
 
 if __name__ == '__main__':
     n = int(input())
