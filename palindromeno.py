@@ -1,4 +1,4 @@
-#palindrome no using python
+#palindrome number
 num=int(input("Enter a number:"))
 temp=num
 rev=0
