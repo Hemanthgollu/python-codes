@@ -1,4 +1,4 @@
-#recursive sum method using python
+#recursive sum method 
 def sdigit(y):
     
     r = 0
