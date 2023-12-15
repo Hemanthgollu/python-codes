@@ -1,4 +1,4 @@
-# first code 
+# first code using python
 n = 100
 i = 1
 while i<=n:
