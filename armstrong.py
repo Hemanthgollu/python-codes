@@ -1,4 +1,4 @@
-# armstrong number using python
+# armstrong number 
 n = int(input("Enter a number: "))
 
 s = 0
